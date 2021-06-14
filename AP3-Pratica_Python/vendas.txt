@@ -1,0 +1,4 @@
+
+Venda - O(A) cliente de nome: rafael comprou a moto: ninja
+Venda - O(A) cliente de nome: Vicenzo comprou a moto: Kawazaki
+Venda - O(A) cliente de nome: Raul comprou a moto: Ninja 300
